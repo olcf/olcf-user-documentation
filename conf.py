@@ -127,4 +127,8 @@ def setup(app):
 
 rst_prolog = r"""
 .. |R| replace:: \ :sup:`®`
+
+.. |br| raw:: html
+
+  <br/>
 """
